@@ -1,15 +1,6 @@
 # Music Visualiser Project
-
 Name: Alkim Berke Kas
-
 Student Number: D20123882
-
-## Instructions
-- Fork this repository and use it a starter project for your assignment
-- Create a new package named your student number and put all your code in this package.
-- You should start by creating a subclass of ie.tudublin.Visual
-- There is an example visualiser called MyVisual in the example package
-- Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
 In this assignment we were tasked to create an audio-visual experience and pick a song or piece of music that we like. I thought I should pick a song that could make me and who ever plays the audio dance and vibe. Furthermore, I didn’t forget the fact that I should pick a song that can boost my energy and keep my focus on it thereby I picked the song “Back in time by Pitbull” which I found pretty responsive regarding to its basses.
@@ -226,4 +217,4 @@ As for visions I’ve spent most of my time with the first one due to me trying 
     }
 ```
 ## YouTube Video
-Here is the link to my YouTube video: https://www.youtube.com/watch?v=uuxfpTCMDyo
+[![YouTube](http://img.youtube.com/vi/uuxfpTCMDyo/0.jpg)](https://www.youtube.com/watch?v=uuxfpTCMDyo)
